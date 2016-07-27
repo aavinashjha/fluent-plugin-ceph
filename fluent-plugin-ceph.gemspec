@@ -19,9 +19,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "fluent-plugin-ceph.gemspec",
-    "lib/fluent/plugin/in_ceph.rb",
-    "test/helper.rb",
-    "test/plugin/test_in_ceph.rb"
+    "lib/fluent/plugin/in_ceph.rb"
   ]
   s.homepage = "http://github.com/aavinashjha/fluent-plugin-ceph"
   s.rubygems_version = "2.4.5"
